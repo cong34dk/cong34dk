@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Công</h1>
 <h3 align="center">.NET Developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cong34dk&label=Profile%20views&color=0e75b6&style=flat" alt="cong34dk" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cong34dk" alt="cong34dk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
